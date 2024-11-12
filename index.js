@@ -15,7 +15,7 @@ app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));
 
 // Database configuration
-// Update with your own DB info from azure
+// Update with your own DB info from azure s
 const config = {
     user: 'azureuser',
     password: 'P@ssw0rdssss',
